@@ -1,0 +1,10 @@
+{
+  "name": "Biosecurity Challenge",
+  "description": "App interactiva y dinámica de bioseguridad para estudiantes universitarios con retos por niveles y sectores del manual, vídeos prácticos y código QR.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
